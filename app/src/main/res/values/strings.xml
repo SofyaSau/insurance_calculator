@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Калькулятор CASCO</string>
+    <string name="button_calculate_name">Рассчитать</string>
+    <string name="view_year_name">Год выпуска</string>
+    <string name="view_amount_name">Страховая сумма</string>
+    <string name="view_model_name">Марка</string>
+    <string name="view_age_name">Возраст</string>
+    <string name="view_experience_name">Стаж вождения</string>
+    <string name="view_region_name">Регион</string>
+    <string name="view_geography_name">География</string>
+    <string name="view_franchise_name">Франшиза</string>
+    <string name="view_result_example">Результат</string>
+
+    <string-array name="year_car_manufacture">
+        <item>2011</item>
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+    </string-array>
+    
+    <string-array name="insurance_amount">
+        <item>До 10.000 EUR</item>
+        <item>10 - 25.000 EUR</item>
+        <item>25 - 50.000 EUR</item>
+        <item>Более 50.000 EUR</item>
+    </string-array>
+
+    <string-array name="car_model">
+        <item>BMW</item>
+        <item>DACIA</item>
+        <item>FORD</item>
+        <item>HYUNDAI</item>
+        <item>KIA</item>
+        <item>MAZDA</item>
+        <item>MERCEDES-BENZ</item>
+        <item>MITSUBISHI</item>
+        <item>NISSAN</item>
+        <item>RENAULT</item>
+        <item>SKODA</item>
+        <item>SUBARU</item>
+        <item>TOYOTA</item>
+        <item>VOLKSWAGEN</item>
+        <item>VOLVO</item>
+        <item>Другая</item>
+    </string-array>
+
+    <string-array name="driving_experience">
+        <item>До 5 лет</item>
+        <item>5 – 10 лет</item>
+        <item>Более 10 лет</item>
+        <item>Не указан</item>
+    </string-array>
+
+    <string-array name="driver_age">
+        <item>18 – 25 лет</item>
+        <item>25 – 45 лет</item>
+        <item>Свыше 45 лет</item>
+        <item>Не указан</item>
+    </string-array>
+
+    <string-array name="region">
+        <item>Кишинёв</item>
+        <item>Другой</item>
+    </string-array>
+
+    <string-array name="geography">
+        <item>Республика Молдова</item>
+        <item>Европа</item>
+    </string-array>
+
+    <string-array name="franchise">
+        <item>Не применяется</item>
+        <item>С франшизой</item>
+    </string-array>
+</resources>
